@@ -1,4 +1,4 @@
-# Emulate mouse movements in Windows
+# Emulate mouse movements inside a Windows VDI
 
 This script uses Powershell v5.x
 
